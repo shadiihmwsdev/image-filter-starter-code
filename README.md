@@ -26,7 +26,7 @@ We've included a few helper functions to handle some of these concepts and we're
 ```typescript
 import {filterImageFromURL, deleteLocalFiles} from './util/util';
 ```
-#EB_URL: shaudagram-dev.us-east-1.elasticbeanstalk.com
+##EB_URL: (shaudagram-dev.us-east-1.elasticbeanstalk.com)
 ### Deploying your system
 
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
